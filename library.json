@@ -1,6 +1,6 @@
 {
     "name": "htcw_ttgo_power",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Provides support for the TTGO T-Display v1.1 battery",
     "keywords": ["ttgo","power","battery"],
     "authors": {
