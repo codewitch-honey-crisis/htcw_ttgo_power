@@ -1,0 +1,18 @@
+{
+    "name": "htcw_ttgo_power",
+    "version": "0.1.0",
+    "description": "Provides support for the TTGO T-Display v1.1 battery",
+    "keywords": ["ttgo","power","battery"],
+    "authors": {
+        "name":"honey the codewitch",
+        "homepage": "https://www.codeproject.com/Members/code-witch"
+    },
+    "license": "MIT",
+    "frameworks": ["arduino", "espidf"],
+    "platforms": "espressif32",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/codewitch-honey-crisis/htcw_ttgo_power.git"
+    }
+}
